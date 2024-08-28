@@ -14,7 +14,7 @@ If you find any issues or have suggestions for improvements, please create an is
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/wiiz-ir/scripts/blob/main/LICENCE) file for more details.
 
 😊 Happy managing!
 
